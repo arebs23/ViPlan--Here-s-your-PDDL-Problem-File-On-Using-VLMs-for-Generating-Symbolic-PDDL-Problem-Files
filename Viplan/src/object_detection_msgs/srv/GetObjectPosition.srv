@@ -1,0 +1,8 @@
+# Get the pose of an object
+
+std_msgs/String[] objects_names
+
+---
+# Response
+std_msgs/String[] objects_names
+geometry_msgs/Pose[] objects_positions

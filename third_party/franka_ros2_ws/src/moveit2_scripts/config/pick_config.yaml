@@ -1,0 +1,3 @@
+move_to_pose_server:
+  ros__parameters:
+    target_object: "apple"  # Change this to whatever you want to detect

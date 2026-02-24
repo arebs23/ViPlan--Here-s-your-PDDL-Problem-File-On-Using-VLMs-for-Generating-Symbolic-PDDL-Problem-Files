@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/ros/humble/**",
+                "/opt/ros/humble/include/rclcpp",
+                "/home/aregbs/ros2_ws/install/**",
+                "/usr/include/eigen3"
+            ],
+            "name": "ROS2",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

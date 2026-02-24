@@ -1,0 +1,34 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/aregbs/ros2_ws/install/zed_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/aregbs/ros2_ws/install/zed_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages",
+        "/home/aregbs/ros2_ws/install/object_detection_msgs/share/",
+        "/home/aregbs/ros2_ws/install/viplan_msgs/share/"
+    ],
+    "files.associations": {
+        "typeindex": "cpp",
+        "typeinfo": "cpp",
+        "condition_variable": "cpp",
+        "future": "cpp",
+        "string": "cpp",
+        "*.ipp": "cpp",
+        "array": "cpp",
+        "any": "cpp",
+        "string_view": "cpp",
+        "hash_map": "cpp",
+        "hash_set": "cpp",
+        "regex": "cpp",
+        "deque": "cpp",
+        "vector": "cpp",
+        "functional": "cpp",
+        "*.tcc": "cpp"
+    },
+    "ros.distro": "humble",
+    "cmake.sourceDirectory": "/home/victor/Downloads/ros2_ws/build/easy_handeye2_msgs/easy_handeye2_msgs__py"
+}

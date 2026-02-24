@@ -1,0 +1,716 @@
+Script started on 2024-05-23 11:31:10+02:00 [TERM="xterm-256color" TTY="/dev/pts/12" COLUMNS="173" LINES="14"]
+[?2004h(base) ]0;aregbs@aregbs-MS-7D07: ~/ros2_ws/src[01;32maregbs@aregbs-MS-7D07[00m:[01;34m~/ros2_ws/src[00m$ cd scrip[K[K[K[K[K[K[K[Kclear
+[?2004l[H[2J[3J[?2004h(base) ]0;aregbs@aregbs-MS-7D07: ~/ros2_ws/src[01;32maregbs@aregbs-MS-7D07[00m:[01;34m~/ros2_ws/src[00m$ las
+[?2004lCommand 'las' not found, did you mean:
+  command 'als' from deb atool (0.39.0-11)
+  command 'last' from deb util-linux (2.37.2-4ubuntu3)
+  command 'ls' from deb coreutils (8.32-4.1ubuntu1)
+  command 'laps' from deb epix (1.2.21-2)
+  command 'lvs' from deb lvm2 (2.03.11-2.1ubuntu4)
+  command 'kas' from deb kas (2.6.3-2)
+  command 'lrs' from deb lrslib (0.71a-1)
+  command 'les' from deb atm-tools (1:2.5.1-4build2)
+  command 'cas' from deb amule-utils (1:2.3.3-2)
+  command 'as' from deb binutils (2.38-4ubuntu2.3)
+Try: sudo apt install <deb name>
+[?2004h(base) ]0;aregbs@aregbs-MS-7D07: ~/ros2_ws/src[01;32maregbs@aregbs-MS-7D07[00m:[01;34m~/ros2_ws/src[00m$ clear
+[?2004l[H[2J[3J[?2004h(base) ]0;aregbs@aregbs-MS-7D07: ~/ros2_ws/src[01;32maregbs@aregbs-MS-7D07[00m:[01;34m~/ros2_ws/src[00m$ ls
+[?2004l[0m[01;34mgoal_imag_pkg[0m  [01;34mGroundingDINO[0m  [01;34mros2_aruco[0m  typescript  [01;34mweights[0m  [01;34mzed-ros2-examples[0m  [01;34mzed-ros2-wrapper[0m
+[?2004h(base) ]0;aregbs@aregbs-MS-7D07: ~/ros2_ws/src[01;32maregbs@aregbs-MS-7D07[00m:[01;34m~/ros2_ws/src[00m$ cd goal_imag_pkg/
+[?2004l[?2004h(base) ]0;aregbs@aregbs-MS-7D07: ~/ros2_ws/src/goal_imag_pkg[01;32maregbs@aregbs-MS-7D07[00m:[01;34m~/ros2_ws/src/goal_imag_pkg[00m$ cd scripts/
+[?2004l[?2004h(base) ]0;aregbs@aregbs-MS-7D07: ~/ros2_ws/src/goal_imag_pkg/scripts[01;32maregbs@aregbs-MS-7D07[00m:[01;34m~/ros2_ws/src/goal_imag_pkg/scripts[00m$ clear
+[?2004l[H[2J[3J[?2004h(base) ]0;aregbs@aregbs-MS-7D07: ~/ros2_ws/src/goal_imag_pkg/scripts[01;32maregbs@aregbs-MS-7D07[00m:[01;34m~/ros2_ws/src/goal_imag_pkg/scripts[00m$ python combinmed[K[K[K[K[Kined_mask.py 
+[?2004lQObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Current thread (0x5a5cfc418c10) is not the object's thread (0x5a5cfc435cd0).
+Cannot move to target thread (0x5a5cfc418c10)
+
+QObject::moveToThread: Cu
