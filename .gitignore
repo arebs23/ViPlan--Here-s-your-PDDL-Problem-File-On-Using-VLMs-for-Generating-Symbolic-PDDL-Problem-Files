@@ -3,3 +3,8 @@
 **/.vscode/
 **/browse.vc.db
 **/*.vc.db
+
+# VSCode DB junk
+**/.vscode/
+**/browse.vc.db
+**/*.vc.db
