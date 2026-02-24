@@ -1,0 +1,5 @@
+
+# VS Code DB files
+**/.vscode/
+**/browse.vc.db
+**/*.vc.db
