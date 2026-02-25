@@ -2,7 +2,6 @@
 This is the implementation of our paper accepted by ICRA 2025
 
 
-![Untitled design](https://github.com/user-attachments/assets/7652d1f3-c92a-48d9-81bf-c5a44a66062b)![Untitled design (1)](https://github.com/user-attachments/assets/d3668ab4-87ad-44bd-862f-6df4c2d77d38)
 
 
 # Abstract:
