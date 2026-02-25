@@ -2,6 +2,7 @@
 This is the implementation of our paper accepted by ICRA 2025
 
 
+![Untitleddesign4-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/87d0605c-dfc9-4a59-9719-66e933440990)
 
 
 # Abstract:
